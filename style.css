@@ -99,9 +99,13 @@ h1:hover, h1:focus, h3:hover, h3:focus{
 .view{
     align-self: center;
     margin: auto;
-    width: 10%;
-  
-   
+    width: 10%; 
+}
+a{
+    color: blue;
+}
+.attri{
+    text-align: center;
 }
 
 
