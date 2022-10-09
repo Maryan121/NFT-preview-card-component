@@ -105,10 +105,12 @@ h1:hover, h1:focus, h3:hover, h3:focus{
    color: #fff;
     display: flex;
     align-items: center;
-    margin: 2rem auto;
+   
 }
 a{
     color: lightblue;
+    opacity: .8;
+    margin: 2rem auto;
 }
 
 
