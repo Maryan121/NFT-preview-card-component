@@ -101,16 +101,6 @@ h1:hover, h1:focus, h3:hover, h3:focus{
     margin: auto;
     width: 10%; 
 }
-.attri{
-   color: #fff;
-    display: flex;
-    align-items: center;
-   
-}
-a{
-    opacity: .8;
-    margin: 2rem auto;
-}
 
 
 
